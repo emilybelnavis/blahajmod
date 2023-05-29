@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+    modId="blahajmod"
+    version="${file.jarVersion}"
+    displayName="Blåhaj"
+    displayUrl="https://github.com/friendsofblahajmc/blahaj-mod"
+    credits="Friends of Blahaj MC"
+    authors="Friends of Blahaj MC"
+    description='''
+    Adds Blåhaj to Minecraft
+    '''
+
+
+[[dependencies.blahajmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.blahajmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+

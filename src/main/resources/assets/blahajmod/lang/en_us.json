@@ -1,0 +1,8 @@
+{
+  "block.blahajmod.original_blahaj": "Blåhaj",
+
+  "block.blahajmod.blahaj.tooltip": "Soft cuddly shark :3",
+  "tooltip.blahajmod.owner.craft" : "Crafted by %s",
+  "tooltip.blahajmod.owner.rename": "%s of %s",
+  "itemGroup.blahajmod": "Blåhaj and Friends"
+}
